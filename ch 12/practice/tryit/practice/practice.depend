@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1397422690 source:c:\users\jonny\documents\jv schoo\cis202\ch 12\practice\tryit\practice\password.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"password.h"
+
+1397414596 c:\users\jonny\documents\jv schoo\cis202\ch 12\practice\tryit\practice\password.h
+	<iostream>
+	<string>
+
+1397414262 source:c:\users\jonny\documents\jv schoo\cis202\ch 12\practice\tryit\practice\user.cpp
+	<iostream>
+	<string>
+	"user.h"
+
+1397414596 c:\users\jonny\documents\jv schoo\cis202\ch 12\practice\tryit\practice\user.h
+	<iostream>
+	<string>
+
+1397415328 source:c:\users\jonny\documents\jv schoo\cis202\ch 12\practice\tryit\practice\main.cpp
+	<iostream>
+	<string>
+	"user.h"
+	"password.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1398208982 source:c:\users\jonny\documents\jv schoo\cis202\ch 18\inclass\assert\assertiflessthan\date.cpp
+	"Date.h"
+
+1398208987 c:\users\jonny\documents\jv schoo\cis202\ch 18\inclass\assert\assertiflessthan\date.h
+	<string>
+
+1398210795 source:c:\users\jonny\documents\jv schoo\cis202\ch 18\inclass\assert\assertiflessthan\test.cpp
+	<iostream>
+	<cassert>
+	"Date.h"
+

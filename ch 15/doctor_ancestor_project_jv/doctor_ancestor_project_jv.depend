@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1395272723 source:c:\users\jonny\documents\jv schoo\cis202\ch 15\doctor_ancestor_project_jv\doctor_ancestor_project.cpp
+	<iostream>
+	"doctor_ancestor_project_jv.h"
+
+1395272677 c:\users\jonny\documents\jv schoo\cis202\ch 15\doctor_ancestor_project_jv\doctor_ancestor_project_jv.h
+	<iostream>
+	<string>
+
+1395272727 source:c:\users\jonny\documents\jv schoo\cis202\ch 15\doctor_ancestor_project_jv\main.cpp
+	<iostream>
+	<string>
+	"doctor_ancestor_project_jv.h"
+

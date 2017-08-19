@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1399415542 source:c:\users\jonny\documents\jv schoo\cis202\ch 18\project\studentscores.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<string>
+	"studentScores.h"
+
+1399415389 c:\users\jonny\documents\jv schoo\cis202\ch 18\project\studentscores.h
+	<iostream>
+	<algorithm>
+	<vector>
+	<string>
+
+1399415618 source:c:\users\jonny\documents\jv schoo\cis202\ch 18\project\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<string>
+	"studentScores.h"
+

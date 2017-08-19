@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1399418656 source:c:\users\jonny\documents\jv schoo\cis202\ch 18\bookvector\books.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<vector>
+	"books.h"
+
+1399418578 c:\users\jonny\documents\jv schoo\cis202\ch 18\bookvector\books.h
+	<iostream>
+	<string>
+	<algorithm>
+	<vector>
+
+1399418856 source:c:\users\jonny\documents\jv schoo\cis202\ch 18\bookvector\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<vector>
+	"books.h"
+

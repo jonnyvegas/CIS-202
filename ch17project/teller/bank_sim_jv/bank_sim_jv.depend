@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1398035749 source:c:\users\jonny\documents\jv schoo\cis202\ch17project\teller\bank_sim_jv\banksim.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<list>
+	<vector>
+	"banksim.h"
+
+1398035824 c:\users\jonny\documents\jv schoo\cis202\ch17project\teller\bank_sim_jv\banksim.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<list>
+	<vector>
+

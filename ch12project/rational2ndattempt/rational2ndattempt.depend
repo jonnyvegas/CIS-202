@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1396913605 source:c:\users\jonny\documents\jv schoo\cis202\ch12project\rational2ndattempt\main.cpp
+	<iostream>
+	"rational.h"
+
+1396913774 c:\users\jonny\documents\jv schoo\cis202\ch12project\rational2ndattempt\rational.h
+	<iostream>
+
+1396913774 source:c:\users\jonny\documents\jv schoo\cis202\ch12project\rational2ndattempt\rational.cpp
+	<iostream>
+	"rational.h"
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1397411877 source:c:\users\jonny\documents\jv schoo\cis202\ch13project\polynomial\polynomial\main.cpp
+	<iostream>
+	<math.h>
+	"polynomial.h"
+
+1397411690 c:\users\jonny\documents\jv schoo\cis202\ch13project\polynomial\polynomial\polynomial.h
+	<iostream>
+

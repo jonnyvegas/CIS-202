@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1395273136 source:c:\users\jonny\documents\jv schoo\cis202\ch 15\figure_project\figure_class_jv\figure.cpp
+	<iostream>
+	"figure.h"
+
+1395273138 c:\users\jonny\documents\jv schoo\cis202\ch 15\figure_project\figure_class_jv\figure.h
+
+1395273140 source:c:\users\jonny\documents\jv schoo\cis202\ch 15\figure_project\figure_class_jv\main.cpp
+	<iostream>
+	"figure.h"
+
+1395273138 source:c:\users\jonny\documents\jv schoo\cis202\ch 15\figure_project\figure_class_jv_turn_in\figure_class_jv\figure.cpp
+	<iostream>
+	"figure.h"
+
+1395273140 c:\users\jonny\documents\jv schoo\cis202\ch 15\figure_project\figure_class_jv_turn_in\figure_class_jv\figure.h
+
+1395273142 source:c:\users\jonny\documents\jv schoo\cis202\ch 15\figure_project\figure_class_jv_turn_in\figure_class_jv\main.cpp
+	<iostream>
+	"figure.h"
+

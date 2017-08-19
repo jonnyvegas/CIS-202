@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1397588873 source:c:\users\jonny\documents\jv schoo\cis202\ch15project\figuresagain\figure.cpp
+	<iostream>
+	"figure.h"
+
+1397589786 c:\users\jonny\documents\jv schoo\cis202\ch15project\figuresagain\figure.h
+
+1397589385 source:c:\users\jonny\documents\jv schoo\cis202\ch15project\figuresagain\main.cpp
+	<iostream>
+	"figure.h"
+	"rectangle.h"
+	"triangle.h"
+
+1397589786 c:\users\jonny\documents\jv schoo\cis202\ch15project\figuresagain\rectangle.h
+	"figure.h"
+
+1397589786 c:\users\jonny\documents\jv schoo\cis202\ch15project\figuresagain\triangle.h
+	"figure.h"
+
+1397589082 source:c:\users\jonny\documents\jv schoo\cis202\ch15project\figuresagain\rectangle.cpp
+	<iostream>
+	"figure.h"
+	"rectangle.h"
+
+1397589082 source:c:\users\jonny\documents\jv schoo\cis202\ch15project\figuresagain\triangle.cpp
+	<iostream>
+	"figure.h"
+	"triangle.h"
+

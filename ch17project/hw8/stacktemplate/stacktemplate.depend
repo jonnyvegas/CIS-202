@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1397410588 source:c:\users\jonny\documents\jv schoo\cis202\ch17project\hw8\stacktemplate\main.cpp
+	<iostream>
+	"stacktemplate.h"
+	"stacktemplate.cpp"
+
+1397410588 c:\users\jonny\documents\jv schoo\cis202\ch17project\hw8\stacktemplate\stacktemplate.h
+
+1397410588 c:\users\jonny\documents\jv schoo\cis202\ch17project\hw8\stacktemplate\stacktemplate.cpp
+	<iostream>
+	"stacktemplate.h"
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1395275307 source:c:\users\jonny\documents\jv schoo\cis202\ch 15\admin_ancestor_jv\admin_ancestor.cpp
+	<iostream>
+	<string>
+	"administrator.h"
+
+1395275307 c:\users\jonny\documents\jv schoo\cis202\ch 15\admin_ancestor_jv\administrator.h
+	<iostream>
+	<string>
+
+1395275307 source:c:\users\jonny\documents\jv schoo\cis202\ch 15\admin_ancestor_jv\main.cpp
+	<iostream>
+	<string>
+	"administrator.h"
+
